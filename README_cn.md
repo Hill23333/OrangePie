@@ -9,3 +9,12 @@
 一个基于易语言的快速的，轻量的我的世界启动内核。
 
 </div>
+
+## 功能
+
+- [x] 运行 Minecraft:Java Edition
+- [ ] 运行 Minecraft:Bedrock Edition
+- [ ] 账户登录
+- [ ] 下载 Minecraft:Java Edition
+- [ ] 下载 Minecraft:Bedrock Edition
+- [ ] 下载模组，地图，整合包和资源包 (CurseForge/Modrinth)

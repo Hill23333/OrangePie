@@ -9,3 +9,12 @@
 A fast and light Minecraft launch kernel based on EPL.
 
 </div>
+
+## Features
+
+- [x] Run Minecraft:Java Edition
+- [ ] Run Minecraft:Bedrock Edition
+- [ ] Account login
+- [ ] Download Minecraft:Java Edition
+- [ ] Download Minecraft:Bedrock Edition
+- [ ] Download mods, worlds, modpack and resource pack (CurseForge/Modrinth)
